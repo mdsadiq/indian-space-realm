@@ -1,5 +1,5 @@
-# isro-land
- api to provide various data about the amazing projects coming out of ISRO
+# indian space realm
+ Api to provide various data about the amazing projects coming out of ISRO and other space ecosystems from India
 
 <hr>
 
@@ -11,7 +11,8 @@
 
 ## Links
 
-[Apps](./docs/apps.md) Feel free to share your links and showcase your apps
+Feel free to share your links and showcase your apps
+ - [Apps](./docs/apps.md) 
 
 
 ## TODO
@@ -19,6 +20,7 @@
 - [ ] collect basic data
 - [ ] prepare models
 - [ ] expose apis
+- [ ] cron to update the DB
 
 <hr>
 
